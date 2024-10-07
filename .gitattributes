@@ -1,0 +1,9 @@
+# Automatically normalize line endings for all text files
+* text=auto
+
+# Force LF for JavaScript files
+*.js eol=lf
+
+# Treat image files as binary
+*.png binary
+*.jpg binary
